@@ -2,12 +2,8 @@
 
 <t1><b>Data Analyst Projects</t1></b>
 
-PostgreSQL Database
+EDA (Exploratory Data Analysis) Project
 
-Google Data Studio Projects
+Dashboard / Visualization
 
-Student Demographics
-
-Device Loaner Tracker
-
-Work Order Tracker
+Web Scraping / API
